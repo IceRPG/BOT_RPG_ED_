@@ -1,0 +1,17 @@
+{
+  "name": "bot_baileys_rpg",
+  "version": "1.0.0",
+  "description": "Bot RPG para rolagem de dados, acesso a IA e figurinhas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "ffmpeg": "^0.0.4",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
